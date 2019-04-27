@@ -1,1 +1,3 @@
-# 2019S-INFO-3402
+# INFO 3402: Information Expositions (Spring 2019)
+
+This is the course content for the Spring 2019 version of "Information Exposions". It is designed around seven core techniques that most data scientists use (exploring, retrieving, cleaning, combining, aggregating, inferring, and predicting). Each module is delivered with six 50-minute lectures over two weeks. Evaluation was done with a combination of biweekly Module Assignments with critical response processes as well as a final project developing a data-driven op-ed.
